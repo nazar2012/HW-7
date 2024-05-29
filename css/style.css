@@ -1,6 +1,9 @@
-#https{
+a[href="https://www.youtube.com/"]{
     color: red;
 }
-.lorem{
+a[href="https://validator.w3.org/"]{
+    color: red;
+}
+ul + p{
     font-size: 24px;
 }
